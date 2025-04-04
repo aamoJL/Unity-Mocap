@@ -29,3 +29,7 @@ Dependencies:
 4. To convert the IK recording to a **mecanim animation**, enable the `Mecanim Recorder` component and play the scene.
 	- "Mecanim Recording ENDED" will be logged to the console when the animation has been converted.
 	- The animation will be saved to the component's **AnimationFile** file.
+
+##
+
+[mocap-video.webm](https://github.com/user-attachments/assets/e8a6d130-1aa0-4e17-95c8-a0201a840bdf)
